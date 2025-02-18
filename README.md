@@ -7,7 +7,7 @@ A Curated list of Awesome [Site Reliability](https://www.usenix.org/conference/s
 
 ## Contributing
 
-Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
+Please Take a look at the [contribution guidelines](CONTRIBUTING.md) first.
 Contributions are always welcome!
 
 ## Contents
